@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lebo/OneDrive/Documents/GitHub/Fuel_Economy_Insights/mlruns/192191693849510042/6bc6cd200e544638a083b1d93f109b59/artifacts
+end_time: 1743766179429
+entry_point_name: ''
+experiment_id: '192191693849510042'
+lifecycle_stage: active
+run_id: 6bc6cd200e544638a083b1d93f109b59
+run_name: adorable-ant-954
+run_uuid: 6bc6cd200e544638a083b1d93f109b59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743766171597
+status: 3
+tags: []
+user_id: Lamel
