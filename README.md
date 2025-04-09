@@ -1,6 +1,6 @@
 # Feul Economy Insights and Prediction
 
-![Image](https://cdn.pixabay.com/photo/2017/04/28/17/13/petrol-2268907_1280.jpg)
+<img src="https://cdn.pixabay.com/photo/2017/04/28/17/13/petrol-2268907_1280.jpg" width="400"/>
 
 ## 📌 Table of Contents
 - [📌 Overview](#-overview)
@@ -30,8 +30,8 @@ The objective of this analysis is to identify and evaluate the key factors that 
 - __Data Cleaning:__ Missing values, outliers, and categorical variables are handled. 
 - __Exploratory Data Analysis (EDA):__ Various visualizations and statistics are used to understand the distribution of features and the relationships between them.
 - __Data Preprocessing:__ Feature engineering, scaling, train-test splits, and feature encoding (Label Encoding and One-Hot Encoding) are applied where needed.
-- __Model Training:__ Machine learning models (KNN,Random Forest and Linear Regression) are trained on the dataset to MPG(Miles Per Gallon).
-- __Model Evaluation:__ The models' performance is evaluated using accuracy, precision, recall, F1-score, and other metrics.
+- __Model Training:__ Machine learning models (MulitiLinearRegression,Random Forests & KnnRegressor) are trained on the dataset to MPG(Miles Per Gallon).
+- __Model Evaluation:__ The models' performance is evaluated MAE(Mean Absolute Error), RMSE(Root Mean Squared Error) and R-Squared.
 - __Conclusion:__ Key insights are drawn from the analysis, and recommendations are provided for improving obesity prevention.
 
 ### 📦 Packages 
