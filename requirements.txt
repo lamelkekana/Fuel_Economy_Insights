@@ -4,3 +4,5 @@ matplotlib
 seaborn
 plotly
 scikit-learn
+ipykernel
+nbformat>=4.2.0
