@@ -110,8 +110,9 @@ jupyter notebook
 
 ### 🔍 Opening-PowerBI-dashboard
 
-
-![alt text](images/dashboard.png)
+- After cloning, Navigate to the powerbi directory and open the .pbix file, or download the .pbix file from the powerbi folder in this repository.
+  
+![dashboard](images/image.png)
 
 ### 📝 License
 
