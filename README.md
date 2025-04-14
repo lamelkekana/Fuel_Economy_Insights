@@ -107,6 +107,9 @@ jupyter notebook
 ```
 **Note:** Plotly graphs may not display properly when the notebook is first opened due to their interactive nature. To experience the full functionality of the plot, please rerun all previous cells along with the current cell to ensure proper rendering and interactivity or alternatively run the html link in the repo.
 
+
+![alt text](image.png)
+
 ### 📝 License
 
 Arslaan Siddiqui. (2024). car_data [Data set]. Kaggle. https://www.kaggle.com/datasets/arslaan5/explore-car-performance-fuel-efficiency-data/data
