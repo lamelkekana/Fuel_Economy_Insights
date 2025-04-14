@@ -9,7 +9,7 @@
 - [🔄 Notebook Workflow](#-Notebook-Workflow)
 - [📦 Packages](#-Packages)
 - [🖥️ Environment Setup](#-Environment-Setup)
-- [📂 Opening and Running the Jupyter Notebook File](#-Opening and Running the Jupyter Notebook File)
+- [📂 Opening and Running the Jupyter Notebook File](#-Opening-and-Running-the-Jupyter-Notebook-File)
 - [📝 License](#-License)
 
 
@@ -105,7 +105,7 @@ cd <repository_folder>
 jupyter notebook
 
 ```
-**Note:** Plotly graphs may not display properly when the notebook is first opened due to their interactive nature. To experience the full functionality of the plot, please rerun all previous cells along with the current cell to ensure proper rendering and interactivity.
+**Note:** Plotly graphs may not display properly when the notebook is first opened due to their interactive nature. To experience the full functionality of the plot, please rerun all previous cells along with the current cell to ensure proper rendering and interactivity or alternatively run the html link in the repo.
 
 ### 📝 License
 
